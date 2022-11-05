@@ -1,0 +1,15 @@
+.terms-condition {
+  font-weight: bold;
+  color: blue;
+  font-size: 16px;
+}
+
+/* responsive */
+@media only screen and (max-width: 576px) {
+  .terms-condition {
+    display: flex !important;
+    font-weight: none !important;
+    flex-direction: column !important;
+    font-size: 13px;
+  }
+}
