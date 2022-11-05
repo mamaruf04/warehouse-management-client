@@ -1,10 +1,10 @@
 ### This is symple stock management webset
 
-[Live website](https://books-store-dfd37.web.app/)
+[Live website](https://book-warehouse-bfb94.web.app/)
 
-[Client site code](https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-dev-nazmulislam)
+[Client site code](https://github.com/mamaruf04/warehouse-management-client)
 
-[Server site code](https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-dev-nazmulislam)
+[Server site code](https://github.com/mamaruf04/Warehouse-management-server)
 
 ### This website made with.
 
